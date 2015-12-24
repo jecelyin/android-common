@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SmartSwipeRefreshLayout">
+        <!-- Left margin. -->
+        <attr name="dividerLeftMargin" format="dimension" />
+        <!-- Top margin. -->
+        <attr name="dividerTopMargin" format="dimension" />
+        <!-- Right margin. -->
+        <attr name="dividerRightMargin" format="dimension" />
+        <!-- Bottom margin. -->
+        <attr name="dividerBottomMargin" format="dimension" />
+    </declare-styleable>
+</resources>

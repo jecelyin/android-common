@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty_content">暂无数据，赶紧推客赚佣金吧！</string>
+    <string name="error_text">网络不给力</string>
+    <string name="try_again">重试</string>
+</resources>

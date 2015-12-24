@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent" >
+
+    <ProgressBar
+        android:id="@+id/ssrl___progress"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_centerInParent="true"
+        android:indeterminate="true" />
+
+    <TextView
+        android:id="@+id/ssrl___error_tv"
+        android:visibility="gone"
+        android:textColor="#888888"
+        android:text="@string/error_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/ssrl___try_btn"
+        android:text="@string/try_again"
+        android:visibility="gone"
+        android:textColor="#00B900"
+        android:layout_toRightOf="@id/ssrl___error_tv"
+        android:layout_marginLeft="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</RelativeLayout>
+

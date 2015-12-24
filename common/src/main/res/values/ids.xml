@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerview" type="id" />
+    <item type="id" name="tag_first">1</item>
+    <item type="id" name="tag_second">2</item>
+    <item type="id" name="checkable"/>
+</resources>

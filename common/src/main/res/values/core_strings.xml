@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="http_request_error">网络不给力</string>
+    <string name="http_request_timeout">网络请求超时</string>
+    <string name="empty_view_text_desc">暂无数据，赶紧推客赚佣金吧！</string>
+    <string name="no_data">暂无数据</string>
+</resources>
